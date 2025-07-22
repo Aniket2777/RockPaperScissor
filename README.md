@@ -43,7 +43,7 @@ rock-paper-scissors/
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📸 Screenshot
-<img width="1843" height="854" alt="RockPaperScissor" src="C:\Users\91782\OneDrive\Documents\Rock_Paper_Scissor\RockPaperScissor.png" />
+ <img width="1843" height="854" alt="RockPaperScissor" src="https://github.com/user-attachments/assets/50a42178-a566-44cd-87b9-32de3b26777a" />
 
 
 
