@@ -8,7 +8,7 @@ The game includes sound effects, score tracking, and a modern UI with animations
 
 - 🎨 Beautiful UI with blur glass effect and background image
 - 🧠 Intelligent computer move generation
-- 🔊 Sound effects for win, lose, and tie
+- 🔊 Sound effects for win, lose and tie
 - 📈 Real-time score tracking
 - 🔁 Reset button to restart the game
 
@@ -17,7 +17,7 @@ The game includes sound effects, score tracking, and a modern UI with animations
 
 - HTML5
 - CSS3 (Bootstrap + Custom Styles)
-- JavaScript (Vanilla JS)
+- JavaScript
 - Audio Support (MP3)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
